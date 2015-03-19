@@ -4,6 +4,7 @@ This is the organisational repository for joint AAS/GitHub workshop on indexing 
 
 - [Location](#location)
 - [Date](#date)
+- [Travel](#travel)
 - [Attendees](#attendees)
 - [Agenda](#agenda)
 
@@ -18,6 +19,14 @@ GitHub, 88 Colin P Kelly Jr St, San Francisco, CA 94107. [Google maps](https://w
 ### Date
 
 27 & 28 April 2015
+
+### Travel
+
+Flying in to SFO is recommended - GitHub's offices are ~25 mins in a cab (~$50) from the airport. There's also a regular [BART](http://www.bart.gov/guide/airport/outbound_sfo) train from SFO to Mongomery St station which is about 15 mins walk from the GitHub office.
+
+The [Park Central Hotel](http://www.hotels.com/hotel/details.html?tab=description&hotelId=114219&arrivalDate=04-26-15&departureDate=04-28-15&rooms[0].numberOfAdults=2&roomno=1&validate=false&previousDateful=false&reviewOrder=date_newest_first) is within walking distance of the GitHub offices and currently has a very good rate available (~$200/night). Assuming we're paying your expenses (you should know if we are) then we'll cover up to $300 per night (including tax).
+
+We'll provide breakfast, lunch and dinner on Monday (27th) and breakfast and lunch on Tuesday (28th). Please let us know if you have any dietary preferences.
 
 ### Attendees
 
