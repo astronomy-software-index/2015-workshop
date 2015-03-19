@@ -57,6 +57,7 @@ Please note, this is an invite-only event. Current participants:
   
 **28th April** 
   - TDB
+  - 2pm finish
 
 ## Questions?
 
