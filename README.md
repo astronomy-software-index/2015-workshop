@@ -45,7 +45,7 @@ Please note, this is an invite-only event. Current participants:
 | Ashley Sands | UCLA | :+1: |
 | Arfon Smith | GitHub | :+1: |
 | Julie Steffen | AAS | :+1: |
-| Carly Strasser | AAS | :+1: |
+| Carly Strasser | DataCite | :+1: |
 
 ## Agenda
 
