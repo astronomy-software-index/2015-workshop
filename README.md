@@ -1,6 +1,6 @@
 # Indexing Astronomical Software
 
-This is the organisational repository for joint AAS/GitHub workshop on indexing astronomical software.
+This is the organisational repository for the joint AAS/GitHub workshop on indexing astronomical software generously supported by the [Alfred P. Sloan Foundation](http://www.sloan.org/)
 
 - [Location](#location)
 - [Date](#date)
