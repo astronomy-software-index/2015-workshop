@@ -55,8 +55,8 @@ Please note, this is an invite-only event. Current participants:
 **27th April**
   - TBD
   
-**28th April**
-  -TDB
+**28th April** 
+  - TDB
 
 ## Questions?
 
