@@ -32,30 +32,30 @@ We'll provide breakfast, lunch and dinner on Monday (27th) and breakfast and lun
 
 Please note, this is an invite-only event. Current participants:
 
-|  Name  |      Affiliation      |  Confirmed |
-|:--------|:-------------|:------|
-| Alberto Accomazzi |  ADS | :+1: |
-| Alice Allen |    ASCL   |   :+1: |
-| Adam Becker | Freelance |  :+1: |
-| Kyle Barbary | Berkeley |  :+1: |
-| Roman Chyla | ADS | :+1: |
-| Kyle Cranmer | NYU | :+1: |
-| Frossie Economou | LSST | :+1: |
-| Chris Erdmann | CFA | :+1: |
-| Martin Fenner | PLOS | :+1: |
-| Josh Greenberg | Sloan | :+1: |
-| Robert Hanisch | NIST | :+1: |
-| Jeff Lewandowski | IoP | :+1: |
-| Gus Muench | AAS | :+1: |
-| Lars Holm Nielsen | Zenodo | :+1: |
-| Heather Piwowar | Impactstory | --- |
-| Megan Potter | AAS | :+1: |
-| Thomas Robitaille | MPIA | (remote) |
-| Ashley Sands | UCLA | :+1: |
-| Jonathan Sick | Queen's→LSST | :+1: |
-| Arfon Smith | GitHub | :+1: |
-| Julie Steffen | AAS | :+1: |
-| Carly Strasser | DataCite | :+1: |
+|  Name  |      Affiliation      |  Confirmed | Arriving |
+|:--------|:-------------|:------| :------
+| Alberto Accomazzi |  ADS | :+1: ||
+| Alice Allen |    ASCL   |   :+1: ||
+| Adam Becker | Freelance |  :+1: ||
+| Kyle Barbary | Berkeley |  :+1: ||
+| Roman Chyla | ADS | :+1: ||
+| Kyle Cranmer | NYU | :+1: ||
+| Frossie Economou | LSST | :+1: ||
+| Chris Erdmann | CFA | :+1: ||
+| Martin Fenner | PLOS | :+1: ||
+| Josh Greenberg | Sloan | :+1: ||
+| Robert Hanisch | NIST | :+1: ||
+| Jeff Lewandowski | IoP | :+1: ||
+| Gus Muench | AAS | :+1: ||
+| Lars Holm Nielsen | Zenodo | :+1: ||
+| Heather Piwowar | Impactstory | --- ||
+| Megan Potter | AAS | :+1: ||
+| Thomas Robitaille | MPIA | (remote) ||
+| Ashley Sands | UCLA | :+1: ||
+| Jonathan Sick | Queen's→LSST | :+1: ||
+| Arfon Smith | GitHub | :+1: | Sunday 2pm |
+| Julie Steffen | AAS | :+1: | |
+| Carly Strasser | DataCite | :+1: ||
 
 ## Agenda
 
