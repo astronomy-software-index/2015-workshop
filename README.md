@@ -53,7 +53,7 @@ Please note, this is an invite-only event. Current participants:
 | Thomas Robitaille | MPIA | (remote) |||
 | Ashley Sands | UCLA | :+1: |||
 | Jonathan Sick | Queen's→LSST | :+1: |||
-| Arfon Smith | GitHub | :+1: | Sunday 2pm ||
+| Arfon Smith | GitHub | :+1: | Sunday 2pm |Wednesday am|
 | Julie Steffen | AAS | :+1: | ||
 | Carly Strasser | DataCite | :+1: |||
 
