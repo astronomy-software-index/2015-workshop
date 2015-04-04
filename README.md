@@ -46,6 +46,7 @@ Please note, this is an invite-only event. Current participants:
 | Josh Greenberg | Sloan | :+1: |||
 | Robert Hanisch | NIST | :+1: |||
 | Jeff Lewandowski | IoP | :+1: |||
+| Chris Lintott | Zooniverse | :+1: |||
 | Gus Muench | AAS | :+1: |||
 | Lars Holm Nielsen | Zenodo | :+1: |||
 | Megan Potter | AAS | :+1: |||
