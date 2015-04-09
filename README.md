@@ -50,7 +50,7 @@ Please note, this is an invite-only event. Current participants:
 | Gus Muench | AAS | :+1: |||
 | Lars Holm Nielsen | Zenodo | :+1: |||
 | Megan Potter | AAS | :+1: |||
-| Thomas Robitaille | MPIA | (remote) |||
+| Thomas Robitaille | MPIA | :+1: (remote) |||
 | Ashley Sands | UCLA | :+1: |||
 | Jonathan Sick | Queen's→LSST | :+1: |||
 | Arfon Smith | GitHub | :+1: | Sunday 2pm |Wednesday am|
