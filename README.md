@@ -48,7 +48,7 @@ Please note, this is an invite-only event. Current participants:
 | Jeff Lewandowski | IoP | :+1: |||
 | Chris Lintott | Zooniverse | :+1: |||
 | Gus Muench | AAS | :+1: |||
-| Lars Holm Nielsen | Zenodo | :+1: |||
+| Lars Holm Nielsen | Zenodo | :+1: | Saturday afternoon | Thursday afternoon |
 | Megan Potter | AAS | :+1: |||
 | Doug Roberts | Microsoft | :+1: |||
 | Thomas Robitaille | MPIA | (remote) |||
