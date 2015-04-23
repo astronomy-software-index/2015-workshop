@@ -71,7 +71,8 @@ Please note, this is an invite-only event. Current participants:
   - 12:00 Break for lunch
   - 13:00 Working group breakout and discussion
   - 15:00 Coffee/snacks
-  - 18:30 Working dinner @ GitHub
+  - 17:00 Working group report back
+  - 18:30 Working dinner @ GitHub plus drinks at [the GitHub bar](http://www.wearehatch.com/images/projects/github-hq-3.0/gh-hq-1.jpg)
   
 **28th April** 
   - 09:00 Breakfast @ [GitHub HQ](https://www.google.com/maps/place/88+Colin+P+Kelly+Jr+St,+San+Francisco,+CA+94107/@37.7826402,-122.4024273,15z/data=!4m2!3m1!1s0x80858077fe6ae953:0x1cf829f1248fb8f4)
