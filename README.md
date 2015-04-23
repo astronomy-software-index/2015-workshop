@@ -61,14 +61,23 @@ Please note, this is an invite-only event. Current participants:
 ## Agenda
 
 **26th April**
-  - Sunday evening drinks @ [GitHub HQ](https://www.google.com/maps/place/88+Colin+P+Kelly+Jr+St,+San+Francisco,+CA+94107/@37.7826402,-122.4024273,15z/data=!4m2!3m1!1s0x80858077fe6ae953:0x1cf829f1248fb8f4). 
+  - 7pm Sunday evening dinner @ [Oola SF](https://www.google.com/maps?q=860+folsom+street+san+francisco&client=safari&oe=UTF-8&hnear=860+Folsom+St,+San+Francisco,+California+94107&gl=us&t=m&z=16). 
   
 **27th April**
-  - TBD
+  - 08:30 Arrivals & breakfast, 1st floor [GitHub HQ](https://www.google.com/maps/place/88+Colin+P+Kelly+Jr+St,+San+Francisco,+CA+94107/@37.7826402,-122.4024273,15z/data=!4m2!3m1!1s0x80858077fe6ae953:0x1cf829f1248fb8f4)
+  - 09:30 Introductions/setting the scene
+  - 10:00 2 min introductions by attendees, review of workshop homework
+  - 11:00 Working group assignments
+  - 12:00 Break for lunch
+  - 13:00 Working group breakout and discussion
+  - 15:00 Coffee/snacks
+  - 18:30 Working dinner @ GitHub
   
 **28th April** 
-  - TDB
-  - 2pm finish
+  - 09:00 Breakfast @ [GitHub HQ](https://www.google.com/maps/place/88+Colin+P+Kelly+Jr+St,+San+Francisco,+CA+94107/@37.7826402,-122.4024273,15z/data=!4m2!3m1!1s0x80858077fe6ae953:0x1cf829f1248fb8f4)
+  - 10:00 Day one review and drafting of work statements
+  - 12:00 Lunch
+  - 14:00 Finish
 
 ## Questions?
 
