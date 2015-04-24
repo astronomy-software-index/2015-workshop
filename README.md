@@ -49,7 +49,7 @@ Please note, this is an invite-only event. Current participants:
 | Chris Lintott | Zooniverse | :+1: |||
 | Gus Muench | AAS | :+1: |||
 | Lars Holm Nielsen | Zenodo | :+1: | Saturday afternoon | Thursday afternoon |
-| Megan Potter | AAS | :+1: |||
+| Megan Potter | AAS | :+1: | Sunday evening | Thursday noon |
 | Doug Roberts | Microsoft | :+1: |||
 | Thomas Robitaille | MPIA | :+1: (remote) |||
 | Ashley Sands | UCLA | :+1: |||
