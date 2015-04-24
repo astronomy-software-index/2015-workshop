@@ -51,7 +51,7 @@ Please note, this is an invite-only event. Current participants:
 | Lars Holm Nielsen | Zenodo | :+1: | Saturday afternoon | Thursday afternoon |
 | Megan Potter | AAS | :+1: |||
 | Doug Roberts | Microsoft | :+1: |||
-| Thomas Robitaille | MPIA | (remote) |||
+| Thomas Robitaille | MPIA | :+1: (remote) |||
 | Ashley Sands | UCLA | :+1: |||
 | Jonathan Sick | Queen's→LSST | :+1: |||
 | Arfon Smith | GitHub | :+1: | Sunday 2pm |Wednesday am|
@@ -61,8 +61,8 @@ Please note, this is an invite-only event. Current participants:
 ## Agenda
 
 **26th April**
-  - 7pm Sunday evening dinner @ [Oola SF](https://www.google.com/maps?q=860+folsom+street+san+francisco&client=safari&oe=UTF-8&hnear=860+Folsom+St,+San+Francisco,+California+94107&gl=us&t=m&z=16). 
-  
+  - 7pm Sunday evening dinner @ [Oola SF](https://www.google.com/maps?q=860+folsom+street+san+francisco&client=safari&oe=UTF-8&hnear=860+Folsom+St,+San+Francisco,+California+94107&gl=us&t=m&z=16).
+
 **27th April**
   - 08:30 Arrivals & breakfast, 1st floor [GitHub HQ](https://www.google.com/maps/place/88+Colin+P+Kelly+Jr+St,+San+Francisco,+CA+94107/@37.7826402,-122.4024273,15z/data=!4m2!3m1!1s0x80858077fe6ae953:0x1cf829f1248fb8f4)
   - 09:30 Introductions/setting the scene
@@ -73,8 +73,8 @@ Please note, this is an invite-only event. Current participants:
   - 15:00 Coffee/snacks
   - 17:00 Working group report back
   - 18:30 Working dinner @ GitHub plus drinks at [the GitHub bar](http://www.wearehatch.com/images/projects/github-hq-3.0/gh-hq-1.jpg)
-  
-**28th April** 
+
+**28th April**
   - 09:00 Breakfast @ [GitHub HQ](https://www.google.com/maps/place/88+Colin+P+Kelly+Jr+St,+San+Francisco,+CA+94107/@37.7826402,-122.4024273,15z/data=!4m2!3m1!1s0x80858077fe6ae953:0x1cf829f1248fb8f4)
   - 10:00 Day one review and drafting of work statements
   - 12:00 Lunch
