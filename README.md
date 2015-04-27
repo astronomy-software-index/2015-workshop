@@ -51,7 +51,7 @@ Please note, this is an invite-only event. Current participants:
 | Lars Holm Nielsen | Zenodo | :+1: | Saturday afternoon | Thursday afternoon |
 | Megan Potter | AAS | :+1: | Sunday evening | Thursday noon |
 | Doug Roberts | Microsoft | :+1: |||
-| Thomas Robitaille | MPIA | :+1: (remote) |||
+| Thomas Robitaille | The Astropy Project/MPIA | :+1: (remote) |||
 | Ashley Sands | UCLA | :+1: |||
 | Jonathan Sick | Queen's→LSST | :+1: |||
 | Arfon Smith | GitHub | :+1: | Sunday 2pm |Wednesday am|
