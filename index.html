@@ -8,7 +8,6 @@
     .wrapper{
     	width:900px;
       margin:40px auto;
-    	background: 150px 0px url('arfon.png') no-repeat;
     	min-height:600px;
     }
 
@@ -22,6 +21,13 @@
     	font-weight:lighter;
     	font-size:1.3em;
       padding-top: 10px;
+      margin: 0px;
+    }
+
+    h3{
+      font-family:helvetica, arial, sans-serif;
+    	font-size:1.1em;
+      padding-top: 5px;
       margin: 0px;
     }
 
@@ -53,13 +59,124 @@
   </head>
   <body>
     <div class="wrapper">
-        <h1>
-<a name="the-open-journal" class="anchor" href="#the-open-journal"><span class="octicon octicon-link"></span></a>Indexing Astronomical Software: Workshop statement</h1>
+      <h1>Invitation to comment on a proposal for a cohesive research software citation-enabling platform</h1>
+      <p>by Laura Norén<sup>*</sup></p>
 
-<h2>&raquo; Overview</h2>
+      <h2>&raquo; Overview: Why (and how) to do research software citations in astrophysics well</h2>
 
-<p>The current efforts are part of a larger trend in the discipline towards more computationally intensive research in which writing software is an integral part of research activities. As yet, practices for citing, archiving, assessing the quality of, and otherwise integrating software development into the astronomical research processes have been led by volunteers in a well-intentioned, ad hoc fashion. The efforts of various organizations including the ACSL, various telescopes, astronomical publishers, and astronomy librarians are case studies worthy of investigation as the astronomy community looks for best practices to situate software development in the research process. </p>
+      <p>A group of roughly forty professionals in the astronomy community from university faculty, telescope facilities, grant making foundations, software repositories, journal editors, and libraries met in May 2015 to formulate the goals and establish a plan to build protocols to weave software citation practices into science-as-usual in astronomy.</p>
+      <p>This effort dovetails with a larger trend in astronomy (and the natural and social sciences) towards more computationally intensive research. Writing research software is becoming an integral part of science-as-usual though norms and protocols for recognizing, sharing, and rewarding those who contribute well-crafted software to the scientific process have not kept pace. As yet, practices for citing, archiving, assessing the quality of, and otherwise integrating software development into the astronomical research processes have been led by forward-thinking voluntarism in a well-intentioned, time intensive, flexible fashion that has produced a set of experts within astronomy who have a clear understanding of the challenges associated with widening research processes to efficiently and sustainably incorporate research software. Voluntary project-based efforts inevitably run into financial and temporal limits. The current meetings aim to establish processes that use human curation wisely (and sparingly) in conjunction with greater automation, some crowd-sourcing, and author-performed tasks.</p>
+      <p>One of the first questions that arose at the meeting was about what it means to have a contemporary career in astronomical research and what software skills mean for career paths in astronomy. Should tenure decisions take software citations into account? If so, what is the best way to develop well-understood norms for the proper citation of software? Should there be full-time non-faculty positions created in academia for software developers? What about astronomers who spend time working for telescopes, especially as post-docs (or the equivalent)? How can they maintain coherent curricula vitae so that they may be eligible for academic positions in the future? Should software citations mean the same thing as other types of citations? Will papers that cite “too many” pieces of software be respected in the profession? And how many software citations are too many?</p>
+      <p>The anxiety around this line of questioning is palpable, and not just in astronomy.</p>
+      <p>At the workshop in May, the group opted to table the career path discussion in favor of addressing a problem that could be solved:  improving the process for citing research software.</p>
+      <p>Questions about the normative value of software citations is beyond the purview of this effort, though it is clear that changing the technical system around research software will have an impact on the social value of software creation, sharing, citation and archiving. The goal was to make a plan, assign tasks, avoid intractable questions, engage the community who could not attend the event, and solve research software citation.</p>
+      <h2>&raquo; Invitation to participate</h2>
+      <p>Please discuss the following proposal here and on social media using the hashtag #astroware (astronomy + software = astroware).</p>
+      <p>The main purpose of this document is to generate discussion and elicit feedback.</p>
+      <h2>&raquo; What is the purpose of the proposal for research software citation?</h2>
+      <p>To create protocols, policies, and links between existing platforms for astronomical software citation, sharing, and archiving that are:
+        <ul>
+          <li>uniform;</li>
+          <li>public;</li>
+          <li>uninterested in centralized gatekeeper systems;</li>
+          <li>using health checks rather than upvotes to indicate value;</li>
+          <li>resilient to the (mis)fortunes of specific companies, institutions, and individuals;</li>
+          <li>as simple and efficient as Wordpress;</li>
+          <li>as useful as git for version control and GitHub for collaboration;</li>
+          <li>as robust as the taxonomy and metadata management systems for print publishing;</li>
+          <li>as meaningful to peer participation and career progression as journal publishing has been;</li>
+          <li>intrinsically incentivized to encourage researchers to upload software in robust ways (e.g. not to their own webpages);</li>
+          <li>thinking more about building a better future than carefully archiving the past.</li>
+        </ul>
+      </p>
+      <p>As one of the publishers at the workshop summarized, our strategy is to, “make clear how to [cite and store software] but not require it. Show off success stories and serve the community rather than police the community.” This preceded a similar opt-in sentiment adopted by a different group of forty professionals in scientific publishing who released Transparency and Open Publishing (TOP) Guidelines in July. This astroware proposal would help meet TOP Guidelines but is a proposal to build and connect existing platforms and is not a competing set of guidelines.</p>
+      <h2>&raquo; To-do list</h3>
+      <p>Please weigh in on the specific tasks below using the numbers associated with each task. </p>
+      <p>Additional information about working partners is included after the to-do list.</p>
 
-<p>One of the first questions that arises is about what it means to have a career in astronomical research and what these new skills mean for career paths in astronomy. Should tenure decisions take software citations into account? If so, what is the best way to develop well-understood norms for the proper citation of software? Should there be full-time non-faculty positions created in academia for software developers? What about astronomers who spend time working for telescopes, especially as post-docs (or the equivalent)? How can they maintain coherent curricula vitae so that they may be eligible for academic positions? Will papers that cite “too many” pieces of software be respected in the profession? And how many software citations are too many?</p>
+      <h3>1. Establish a preferred location for the generation of unique identifiers for software </h2>
+      <p>One goal from the workshop is to select and promote a single place for the generation of unique digital identifiers (DOIs). The criteria for selecting a registry include being able to work with the astronomy community, to establish an appropriate set of metadata collection practices, to automate certain processes, and to allow for manual data collection/correction. Evidence of effective past interactions and high adoption rates is key. </p>
+      <p><strong>Zenodo is the proposed candidate to generate unique software-object identifiers.</strong></p>
+      <h3>2. Define a metadata protocol for software </h3>
+      <p>A major task along the way to registering software and meaningfully sharing it is establishing a metadata schema. The easier it is for researchers to request a registered ID for their software, the more likely they are to do so. Thus, some fields can be automatically populated with no human intervention required, assuming the software repository is within the ecosystem (e.g. GitHub, Zenodo).</p>
+      <p>Some librarians and academic astronomers voiced a desire to ensure the metadata protocol could integrate with reference tools like EndNote, RefWorks, etc. though no representatives of those companies were present.</p>
+      <p>The proposed format for metadata is to carry it in a <code>package.json</code> type file. </p>
+      <p>The fields marked with an asterisk are required. All others are optional.</p>
+      <p><em>Proposed Metadata schema</em></p>
+      <p>
+        <code>
+          *Item Type: Software<br />
+          *Author(s):<br />
+          &nbsp;&nbsp;(affiliations)<br />
+           Contributor(s):<br />
+	        &nbsp;&nbsp;(affiliations)<br />
+          *Title:<br />
+          *One liner description<br />
+          Description that can be longer than one line (Could this automatically<br />
+          include text from a readme.txt file, if one exists?)<br />
+          Tags (auto-populated with an option to manually finesse)<br />
+          Class (e.g. library, utility, simulation, analysis, executable, GUI...)<br />
+          *Subject Area (librarians in the group wanted this to be a required field)
+          Algorithms, Methods<br />
+          URL to Home Page<br />
+          DOI to Software (or software metadata, but that would be self-referential)<br />
+          Primary Citation (to paper or website describing software, if any)<br />
+          Preferred citation (could be to a repo, paper, website or other item cite-able now or in the future)<br />
+          Language(s) (e.g. python, javascript not English, Spanish, etc.)<br />
+          Platform(s) (e.g. Windows XP, Mac OS X, Linux)<br />
+          Major dependencies<br />
+          *Version (e.g. 10.x, 12-Jan-2015)<br />
+          Date of First Release (ideally, this is automatically pulled with an option to manually adjust)<br />
+          Date of Last Revision (Last Commit) (ideally, this can be automatically pulled in)<br />
+          Contains / Is a part of/ other relationships<br />
+          Format for Data Input (MIME type(s))<br />
+          Format for Data Output (MIME type(s))<br />
+          Free or fee?<br />
+          Source of funding<br />
+          *License<br />
+          Open Source? (via license type in search interface)<br />
+          Size in Lines of code OR bytes for compiled code<br />
+          Typical execution time (e.g. n sec on hardware-spec)<br />
+        </code>
+      </p>
+      <h3>3. Consider normative standards for citing software</h3>
+      <p>Figuring out what needs to be cited in order to maintain the professional norms of the community is closely related to the creation of technical platforms and protocols. This process of arriving at normative behaviors is iterative and emergent. We invite comments around norms but are not currently tackling the project of enforcing behavioral change.</p>
+      <h3>4. Quarterly workshops</h3>
+
+      <p>Coordination is the key to successful integration of the existing astronomical research software citation components.</p>
+      <p>Quarterly technical workshops between publishers, librarians, software developers, telescopic institutions, grant makers, ethnographers, and academic astronomers to see process through development, testing, and implementation are part of the grant currently being proposed.</p>
+
+      <h3>5. Who will be involved? Existing keepers of astronomical research software</h3>
+      <p>The demand for a more robust, long-term sustainable process for citing software is a response to both the success and limitations of the current sociotechnical systems for citing, sharing, storing, and discovering software for research. Representatives from all of the organizations mentioned below were in attendance at the workshop and have remained actively involved in the efforts to build better sociotechnical systems for sharing astronomical research software. Their insights and willingness to volunteer their time are a phenomenally promising aspect of the current effort.</p>
+
+      <p><strong><em>Astrophysics Source Code Library</em></strong></p>
+      <p>The Astrophysics Source Code Library (ASCL) currently serves the astrophysics community as a free source code registry. Hundreds of volunteer hours of human curatorial labor have gone into the creation of the ASCL. Lessons learned by the human curators point to the necessity to keep some human curation, but incorporate automation and author-based tasks to make sure human time is used efficiently.</p>
+
+      <p><strong><em>Astrophysics Data System</em></strong></p>
+      <p>Any identifier is only as useful as its adoption rate. In this case adoption requires users to request a registry ID and for publishers, libraries, and commercial repositories to recognize registry IDs. Within astronomy and physics, the Astrophysics Data System (ADS) hosted at Harvard and supported jointly by the Smithsonian Astrophysical Observatory and the National Aeronautics and Space Administration (NASA) operates as a digital library and already, “provides access and pointers to a wealth of external resources, including electronic articles available from publisher's websites, astronomical object information, data catalogs and data sets hosted by external archives.” Our goal is to make new protocols that weave neatly together with ADS and ASCL so that past projects are not lost.</p>
+
+      <p><strong><em>GitHub</em></strong></p>
+      <p>Citing software is a primary goal that for many researchers is closely related to the secondary goal of effectively sharing software within the research community. GitHub is currently the most frequently used web-based storage, version control, and sharing repository for astronomical software. Because of GitHub’s dual purpose as a repository and an incubator for ongoing software projects, integrating object identifiers with GitHub-based discovery processes is important for traction. Researchers who are better able to make their software projects discoverable to relevant colleagues are probably more likely to register their own projects.</p>
+      <p>There is some anxiety about incorporating a for-profit company into the scholarly ecosystem. The reliance of scholarly careers on for-profit academic publishers has generated criticism and frustration in the past. However, GitHub relies primarily on the private sector outside of academia for revenue. When researchers opt to make their repositories open to the public on GitHub, they do not incur fees. GitHub only charges for private storage. Because a sizable number of their private-sector clients pay for storage, GitHub’s revenue growth is healthy without requiring financial input from the astronomy community.</p>
+
+      <p><strong><em>Zenodo</em></strong></p>
+      <p>Zenodo already provides an easy way to “share the long tail of small research results” within the sharing pipelines familiar to astronomers by archiving a snapshot of their software and assigning the snapshot a DOI when a release is made in GitHub. With their group of developers, Zenodo is  taking an active role in the technological development of new protocols and connections between the databases underlying journals, digital ID registries, GitHub, citation software (e.g. Zotero), and other software platforms in the ecosystem.</p>
+
+      <p><strong><em>American Astronomical Society</em></strong></p>
+      <p>Journal publishers like the American Astronomical Society (AAS), which is also the main professional organization for astronomy, are critical partners in any ecosystem of information sharing. Leaders from the AAS were in attendance at the workshop and continue to take the lead in this effort. Separate citation accounting for papers that are about software (“software papers”) and for citations of software within research papers is a logical need. The AAS journals will not only sort these accounting matters, they will also play a key role in drawing the connections between the aforementioned platforms and organizations.</p>
+
+
+      <h3>Concluding: Thoughts on the future of software citation in astronomy</h3>
+      <p>The meeting concluded with a round table (well, actually, there was no table  and people were mostly sitting on couches) summing up the perspectives that should drive work forward. A telescopic instrument manager reminded us that, “it is important to get the sociology of this right. It has to be perceived as by developers, for developers. We want to present this as a goodie rather than a process.” One of the grant makers invited the group to draft a proposal that would, “[get] the community to participate” because “the essential part is not seeing how the world ought to be but seeing how to get there.”</p>
+      <p>Sharing the proceedings of the workshop and the draft protocols with the broader astronomy community is our good faith effort to be earnestly transparent and to eagerly engage those who were not at the workshop.</p>
+
+      <h3>Are you in the astronomical community? Please join the conversation using #astroware</h3>
+      <p>If you think what you have read will solve problems for you, please let us know what kind of work you do with software in astronomy.</p>
+      <p>If you are coming from another field, feel free to chime in as an ally and share how this proposal could solve problems in your field. Or maybe your field already solved software citation and you want to share some best practices. Please do.</p>
+
+      <p>If you think we have missed something, tell us how you would expand.</p>
+      <p>If you think we have gotten something wrong, kindly share your critique.</p>
+      <p>Please comment here or use hashtag #astroware if you end up having the conversation elsewhere on social media.</p>
+      <p>You can suggest revisions to this document on GitHub <a href="https://github.com/astronomy-software-index/2015-workshop/edit/gh-pages/index.md">here</a>.</p>
   </body>
 </html>
