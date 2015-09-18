@@ -146,6 +146,13 @@ If you think we have missed something, tell us how you would expand.
 
 If you think we have gotten something wrong, kindly share your critique.
 
-Please comment here or use hashtag #astroware if you end up having the conversation elsewhere on social media.
+Please comment here or use hashtag #astroware if you end up having the 
+conversation elsewhere on social media.
+
+# Related projects
+
+- [DueCredit](http://duecredit.org) -- automated collation of references for a given analysis pipeline, including possibly references to "educational materials" or examples of specific methods usage.  Currently Python-scentric but the idea is to support as many environments/platforms as possible in the due course of the project.
+
+# Contributions
 
 You can suggest revisions to this document on GitHub [here](https://github.com/astronomy-software-index/2015-workshop/edit/gh-pages/index.md).
